@@ -1,0 +1,45 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+}
+
+body div#left {
+	background-color: rgb(74, 144, 226);
+	width: 33%;
+	height: 100%;
+	float: left;
+}
+
+body div#middle {
+	background-color: rgb(80, 227, 194);
+	width: 33%;
+	height: 100%;
+	float: left;
+
+}
+
+body div#right {
+	background-color: rgb(184, 233, 134);
+	width: 34%;
+	height: 75%;
+	float: left;
+}
+
+body div#image-placeholder {
+	background-color: rgb(208, 2, 27);
+	float: left;
+	width: 34%;
+	height: 25%;
+}
+
+body div#image-placeholder p {
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	text-align: center;
+	padding: 15%;
+}
